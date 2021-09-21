@@ -1,0 +1,1 @@
+cmd_/home/hex/Documents/LDD/Linux-Device-drivers/RealDeviceDriver/simpledriver.mod := { echo  /home/hex/Documents/LDD/Linux-Device-drivers/RealDeviceDriver/simpledriver.o;  echo; } > /home/hex/Documents/LDD/Linux-Device-drivers/RealDeviceDriver/simpledriver.mod

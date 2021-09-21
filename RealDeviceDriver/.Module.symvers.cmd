@@ -1,0 +1,1 @@
+cmd_/home/hex/Documents/LDD/Linux-Device-drivers/RealDeviceDriver/Module.symvers := sed 's/ko$$/o/' /home/hex/Documents/LDD/Linux-Device-drivers/RealDeviceDriver/modules.order | scripts/mod/modpost -m -a   -o /home/hex/Documents/LDD/Linux-Device-drivers/RealDeviceDriver/Module.symvers -e -i Module.symvers   -T -

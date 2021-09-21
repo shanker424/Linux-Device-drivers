@@ -1,0 +1,1 @@
+cmd_/home/hex/Documents/LDD/Linux-Device-drivers/RealDeviceDriver/modules.order := {   echo /home/hex/Documents/LDD/Linux-Device-drivers/RealDeviceDriver/simpledriver.ko; :; } | awk '!x[$$0]++' - > /home/hex/Documents/LDD/Linux-Device-drivers/RealDeviceDriver/modules.order
