@@ -1,0 +1,1 @@
+cmd_/home/hex/Documents/LDD/Linux-Device-drivers/Fileoperation/fileops.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/hex/Documents/LDD/Linux-Device-drivers/Fileoperation/fileops.ko /home/hex/Documents/LDD/Linux-Device-drivers/Fileoperation/fileops.o /home/hex/Documents/LDD/Linux-Device-drivers/Fileoperation/fileops.mod.o;  true
